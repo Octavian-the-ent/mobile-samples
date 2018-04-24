@@ -11,11 +11,13 @@
 	<key>CFBundleIdentifier</key>
 	<string>project.MonoGame.MonoGame3D.iOS</string>
 	<key>MinimumOSVersion</key>
-	<string>6.0</string>
+	<string>9.0</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>CFBundleName</key>
+	<string>MonoGame3D.iOS</string>
 </dict>
 </plist>
